@@ -1,0 +1,127 @@
+{
+  "welcome message": "Монголын бүх алдартай газруудаар аялж, ойролцоох зочид буудал, ресторануудыг хамгийн хялбар аргаар хайж олох. Бодит цагийн зааварчилгаа, тооцоолсон зардал, аяллын блог болон бусад зүйлийг авах...",
+  "welcome to": "Тавтай морилно уу.",
+
+  "intro-title1": "Таны хаана байгаа нь хамаагүй",
+  "intro-title2": "Ойролцоох газруудыг судлах",
+  "intro-title3": "Аялалын гарын авлага",
+  "intro-description1": "Аяллын өмнө болон аяллын үеэр очих газрынхаа талаарх чухал мэдээллийг олж авах...",
+  "intro-description2": "Ойролцоох зочид буудал, ресторануудыг хамгийн хялбар аргаар олох...",
+  "intro-description3": "Чиглэл, зардал болон аялалтай холбоотой бусад мэдээллийг нэг дороос авах ...",
+  "get started": "Эхлэх",
+
+  "explore country": "Монголтой Танилц",
+  "search places": "Хайх",
+  "popular places": "Алдартай газрууд",
+  "special state-1 places": "Архангай",
+  "special state-2 places": "Баян-Өлгий",
+  "recently added": "Сүүлд нэмэгдсэн",
+  "recommended places": "Санал болгох газрууд",
+
+  "people like this": "лайк",
+  "todo": "",
+  "you may also like": "Танд санал болгох",
+  "travel guide": "Аяллын хөтөч",
+  "nearby hotels": "Буудлууд",
+  "nearby restaurants": "Ресторан, хоолны газрууд",
+  "steps": "Алхамууд",
+  "estimated cost = ": "Дундаж зардал = ",
+  "distance = ": "Хоорондох зай = ",
+  "no hotels found": "Буудал олдсонгүй",
+  "no restaurants found": "Зоогийн газар олдсонгүй",
+  "we didn't find any nearby hotels in this area": "Энэ хавьд ойрхон зочид буудал олсонгүй",
+  "we didn't find any nearby restaurants in this area": "Энэ хавьд ойрхон зоогийн газар олсонгүй",
+  "user reviews": "Сэтгэгдэл",
+
+  "write a review": "Сэтгэгдэл үлдээх",
+  "no internet": "Интернет холболтоо шалгана уу!",
+  "no comments found": "Сэтгэгдэл олдсонгүй",
+  "be the first to comment": "",
+
+  "recently added places": "Сүүлд нэмэгдсэн газрууд",
+
+  "search & explore": "Газар хайх",
+  "recent searches": "Сүүлд хайсан",
+  "search for places": "Газрууд хайх",
+  "search-description": "Та одоогоор ямар нэгэн зүйл хайж амжаагүй байна.\n Одоо оролдоод үзээрэй, бид танд туслах болно!",
+  "we have found": "Оллоо",
+  "no places found": "Газар олдсонгүй",
+  "try again": "Дахин оролдох!",
+
+  "states": "Аймгууд",
+  "blogs": "Нийтлэлүүд",
+
+  "bookmarks": "Тэмдэглэсэн",
+  "saved places": "Газрууд",
+  "saved blogs": "Нийтлэлүүд",
+  "sign in first": "Эхлээд нэвтэрнэ үү",
+  "sign in to save your favourite places here": "Нэвтэрч ороод дуртай газруудаа хадгалаарай",
+  "sign in to save your favourite blogs here": "Нэвтэрч ороод дуртай нийтлэлүүдээ хадгалаарай",
+  "no blogs found": "Нийтлэл олдсонгүй",
+  "save your favourite places here": "Дуртай газруудаа энд хадгалаарай",
+  "save your favourite blogs here": "Дуртай нийтлэлүүдээ энд хадгалаарай",
+
+  "skip": "Алгасах",
+  "check your internet connection!": "Интернет холболтоо шалгана уу!",
+  "something is wrong. please try again.": "Алдаа гарлаа. Дахин оролдоно уу.",
+
+  "sign in": "Нэвтрэх",
+  "cancel": "Цуцлах",
+
+  "no sign in title": "Нэвтэрнэ үү.",
+  "no sign in subtitle": "Нэвтэрнэ үү.",
+
+  "comments": "Сэтгэгдлүүд",
+  "write a comment": "Сэтгэгдэл бичих",
+
+  "no content": "Мэдээлэл олдсонгүй",
+  "delete?": "Устгах?",
+  "delete from database?": "Устгах уу?",
+  "flag this comment": "Flag this comment",
+  "unflag this comment": "Unflag this comment",
+  "report": "Мэдэгдэх",
+  "delete": "Устгах",
+  "report-info": "Таны хүсэлтийг админд илгээлээ.",
+  "report-info1": "Хүсэлт илгээсэнд баярлалаа бид танд 24 цагийн дотор хариу өгөх болно.",
+  "report-guest": "Бүртгэлээрээ нэвтэрнэ үү!",
+  "report-guest1": "Та нэвтэрч орсноор санал хүсэлт үлдээх боломжтой.",
+  "comment flagged": "This comment has been flagged!",
+
+  "notifications": "Мэдэгдлүүд",
+  "notification details": "Мэдэгдэл",
+
+  "help": "Яаралтай түргэн тусламж",
+
+  "profile": "Профайл",
+  "general setting": "Ерөнхий тохиргоо",
+  "login": "Нэвтрэх",
+  "get notifications": "Мэдэгдэл авах",
+  "contact us": "Холбоо барих",
+  "rate this app": "Үнэлэх",
+  "licence": "Эрхүүд",
+  "privacy policy": "Үйлчилгээний нөхцөл",
+  "about us": "Бидний тухай",
+  "logout": "Гарах",
+  "edit profile": "Мэдээлэл засах",
+  "update profile": "Засах",
+  "updated successfully": "Амжилттай",
+  "enter new name": "Нэр оруулах",
+
+  "logout title": "Та програмаас гарахыг хүсч байна уу?",
+  "yes": "Тийм",
+  "no": "Үгүй",
+
+  "language": "Хэл",
+  "select language": "Хэл сонгох",
+
+  "buy now": "Худалдаж авах",
+  "buy now subtitle": "Buy the full source code here and build the app for your country",
+
+  "home": "Эхлэл",
+  "province": "Аймгууд",
+  "posts": "Нийтлэл",
+  "bookmark": "Дуртай",
+
+  "most recent": "Сүүлийн",
+  "most popular": "Их үзсэн"
+}
