@@ -2,8 +2,8 @@
 <resources>
 
    <!-- your facebook app id -->
-    <string name="facebook_app_id">193186********</string>
+    <string name="facebook_app_id">432566358978550</string>
 
     <!-- your facebook client token -->
-    <string name="facebook_client_token">49550736b83731*****************</string>
+    <string name="facebook_client_token">e5fc9e58a3bcff731ce125c04521abe4</string>
 </resources>

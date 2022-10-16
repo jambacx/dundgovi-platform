@@ -17,36 +17,36 @@ class SpecialStateOne extends StatelessWidget {
 
     return Column(
       children: <Widget>[
-        Container(
-          margin: EdgeInsets.only(
-            left: 15,
-            top: 20,
-            right: 15,
-          ),
-          child: Row(
-            children: <Widget>[
-              Text(
-                'special state-1 places',
-                style: TextStyle(
-                    fontSize: 18,
-                    fontWeight: FontWeight.w700,
-                    color: Colors.grey[800], 
-                    wordSpacing: 1, 
-                    letterSpacing: -0.6),
-              ).tr(),
-              Spacer(),
-              IconButton(
-                icon: Icon(Icons.arrow_forward),
-                onPressed: () => nextScreen(
-                    context,
-                    StateBasedPlaces(
-                      stateName: Config().specialState1,
-                      color: (ColorList().randomColors..shuffle()).first,
-                    )),
-              )
-            ],
-          ),
-        ),
+        // Container(
+        //   margin: EdgeInsets.only(
+        //     left: 15,
+        //     top: 20,
+        //     right: 15,
+        //   ),
+        //   child: Row(
+        //     children: <Widget>[
+        //       Text(
+        //         'special state-1 places',
+        //         style: TextStyle(
+        //             fontSize: 18,
+        //             fontWeight: FontWeight.w700,
+        //             color: Colors.grey[800],
+        //             wordSpacing: 1,
+        //             letterSpacing: -0.6),
+        //       ).tr(),
+        //       Spacer(),
+        //       IconButton(
+        //         icon: Icon(Icons.arrow_forward),
+        //         onPressed: () => nextScreen(
+        //             context,
+        //             StateBasedPlaces(
+        //               stateName: Config().specialState1,
+        //               color: (ColorList().randomColors..shuffle()).first,
+        //             )),
+        //       )
+        //     ],
+        //   ),
+        // ),
         Container(
           width: MediaQuery.of(context).size.width,
           child: ListView.builder(

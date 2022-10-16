@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "736538134359",
+    "project_id": "dundgovi-5b4ca",
+    "storage_bucket": "dundgovi-5b4ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736538134359:android:9eddbf6c5cc8b09239e012",
+        "android_client_info": {
+          "package_name": "com.ihotel.dundgovi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736538134359-mvdu42ts6h5lldmb2vlqe60k0bivvfn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ihotel.dundgovi",
+            "certificate_hash": "f105af002d9ad019971bd1ef6d485850baa070d6"
+          }
+        },
+        {
+          "client_id": "736538134359-1h2cvto4ij26q6pc2117787p4tgd0lla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8VWzyYZWr_-Txt6XWOYY2xNHPQ_FptWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736538134359-1h2cvto4ij26q6pc2117787p4tgd0lla.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "736538134359-efs9jpua0b9m8qrtpsad3makk6k8aa48.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ihotel.dundgovi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

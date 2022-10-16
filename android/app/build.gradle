@@ -37,6 +37,12 @@ android {
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
+    lintOptions {
+        disable 'InvalidPackage'
+        disable "Instantiatable"
+        checkReleaseBuilds false
+        abortOnError false
+    }
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
@@ -65,6 +71,13 @@ android {
 flutter {
     source '../..'
 }
+
+// lintOptions {
+//     disable 'InvalidPackage'
+//     disable "Instantiatable"
+//     checkReleaseBuilds false
+//     abortOnError false
+// }
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
